@@ -1,437 +1,448 @@
-# Japanese Guide
+# 日语指南
 
-*If you don't need a preface, please skip to [2.1 How to learn Japanese](#21-how-to-learn-japanese)*  
+*如果您不需要前言，请跳至 [2.1 如何学习日语](#21-how-to-learn-japanese)*  
 
-## 1.1 Why many people "fail" to learn Japanese
+## 1.1 为什么很多人“学不好”日语
   
-Many people have simple goals in mind when learning Japanese: to enjoy untranslated Japanese content and to speak Japanese fluently. You'll hear everyone say something along those lines when asked about their learning goals. However, many also fail to reach these goals even after years of study. Is the language just too hard? Are they just not studying hard enough?
+许多人在学习日语时有着简单的目标：享受未翻译的日语内容并能流利地讲日语。几乎每个人在被问到学习目标时都会这样回答。然而，即使经过多年的学习，许多人仍未达到这些目标。语言太难了吗？还是他们学习得不够努力？
   
-I believe it's actually not their fault, but rather the method's. In language learning, the method behind your learning makes a huge difference in the kind of progress you make.
+我认为这并不是他们的错，而是方法的问题。在语言学习中，学习方法对学习进展有着巨大的影响。
 
-As it turns out, reaching such goals is not possible with "traditional" methods of Japanese learning. Many students are led to failure for not including a crucial ingredient, **immersion**, into their study routines. **Immersion** refers to listening to or reading native content made for native speakers. For example, anime is originally in Japanese without subtitles, so when consumed in this form, we call it immersion.   
+事实证明，使用“传统”日语学习方法是无法实现这些目标的。许多学生之所以未能成功，是因为他们的学习中缺少一个关键因素：**沉浸**。**沉浸**指的是听取或阅读为母语者制作的原生内容。例如，动漫最初是日语且没有字幕，因此当以这种形式观看时，我们称之为沉浸。
 
-## 1.2 Problems with traditional methods
+## 1.2 传统方法的问题
 
 ![study_wakaranai_boy](img/study_wakaranai_boy.png){:  style="display: block; margin: 0 auto; max-width:40%; height:auto;" }  
 
-A Japanese learner following a “traditional” study method would usually go through the following steps:
+使用“传统”学习方法的日语学习者通常会经历以下步骤：
 
-- Learning the alphabet(s).
-- Learning basic sentences such as greetings and self-introductions.
-- Learning basic grammar structure and vocabulary.
-- Coming up with sentences either by having conversations with a tutor or study partner, or by writing.
-- Translating example sentences from their native language to their target language and vice versa.
-- Looking up further material about grammar structures and vocabulary in textbooks or YouTube videos recommended by a tutor.
-- Practising conversation using knowledge from their study.
-- Accumulating more vocabulary and grammar structures, which becomes a measure of one’s own progress
-- And finally, in the endgame, moving to or visiting Japan in hopes of having opportunities to practise their skills.
+- 学习字母表（平假名、片假名等）。
+- 学习基础句子，例如问候语和自我介绍。
+- 学习基本的语法结构和词汇。
+- 通过与导师或学习伙伴对话或写作来构造句子。
+- 将例句从母语翻译为目标语言，反之亦然。
+- 在导师推荐的教科书或 YouTube 视频中查找更多有关语法结构和词汇的资料。
+- 使用学习中获得的知识进行对话练习。
+- 积累更多的词汇和语法结构，这成为衡量自己进步的标准。
+- 最后，在“最终阶段”前往或访问日本，希望能有机会实践他们的技能。
 
-None of that is bad in itself, it is actually sufficient study, but it's not enough to get you to a high level of proficiency. The problem is they aren't actually engaging with the real language—but what do I mean by that?
+这些学习方式本身并没有错，事实上，这已经是足够的学习内容了，但这还不足以让你达到高级的语言熟练度。问题在于，它们并没有真正接触到真实的语言——但这是什么意思呢？
 
-Let's take swimming as an example. You can't just stay in the baby pool with floaters and take your time to become a pro at the baby pool before attempting to swim in a real pool. This won’t make you a good swimmer. You also can't expect to become a good swimmer just by learning the theory behind the techniques in isolation and practising them without actually swimming in a real pool.
+让我们以游泳为例。你不能一直待在浅水池里用浮具练习，并期待在浅水池中变得“专业”之后才尝试在真正的泳池中游泳。这样并不能让你成为一名优秀的游泳者。同样地，你也不能仅靠学习技术的理论并在脱离实际环境的情况下练习，就指望成为一名优秀的游泳者。
 
-How about a more relatable example: competitive video games. You won’t get better at the game just playing against the AI and grinding in training mode all day. You have to play the real game against other people even if you think you’re going to lose by a landslide. This is "playing the real game", with no strings attached.  
+再举个更容易理解的例子：竞技类游戏。你不会只通过整天对战 AI 和练习模式来提高自己的水平。你必须参与真正的游戏，和其他玩家对战，即使你认为自己会被彻底击败。这就是“玩真正的游戏”，不加以任何保护措施。
 
 
 <div style="border: 4px solid #333; padding: 10px; margin: 10px 0; border-radius: 10px; font-size: 30px; font-weight: bold; text-align: center;">
-  It's important to learn how to move on!
+  重要的是学会如何步入下个阶段！
 </div>
 
-A common trap students fall into in language learning is staying on beginner resources for too long.  
+学生在语言学习中常常陷入的一个误区是停留在初学者资源上过久。
 
-They want to ensure they know every single detail of their basics and refuse to move on to the real language. They refuse to engage in anything they aren't already comfortable with, because they're too afraid of not understanding anything. They may feel like they aren't “ready". Yet it’s important to leave your beginner resources as soon as possible because, in reality, you will never be ready until you actually start engaging with the real language and get yourself used to it.  
+他们希望确保自己掌握每一个基础的细节，不愿意转向真实的语言材料。他们拒绝接触任何不熟悉的内容，因为害怕自己会听不懂。他们可能觉得自己“还没准备好”。然而，尽早离开初学者资源非常重要，因为实际上，在你真正开始接触真实的语言、逐渐习惯它之前，你永远不会真正准备好。
 
-Perfectionism can be a double-edged sword in language learning. As a perfectionist myself, I've suffered more than I've gained wanting to make sure I've gotten every single detail down of trivial things that didn't really matter in the big picture.  
+在语言学习中，完美主义是一把双刃剑。作为一个完美主义者，我深知为了确保掌握每一个细枝末节的细节而付出的代价，往往超出了所得到的收获，而这些细节其实在整体进展中并不重要。
 
-Learning a language is like climbing a mountain. You can try to climb that mountain without anything assisting your ascent, and though it will take lots of struggle, you will eventually make it if you persist. Traditional study is like building a rope so that it's easier to climb that mountain, but you can't climb the mountain just by making a rope! You eventually have to climb it, because no matter how much rope you decide to make climbing that mountain is still going to be difficult and time-consuming.
+学习一门语言就像攀登一座山。你可以尝试空手攀登，虽然会遇到很多困难，但只要坚持，总能到达山顶。传统的学习方法就像在构建一根绳索，让攀登变得更容易，但仅靠制作绳索并不能登顶！你最终还是得开始攀登这座山，因为无论你准备了多少绳索，攀登这座山仍然是困难且耗时的。
 
-## 1.3 The scale of language
+## 1.3 语言的规模
 
-Language is… huge. There's so much to it that far exceeds the limitations of a classroom or app-based approach that tries to teach in an "x means y" or "x does y" format. Mastering a language to a higher level requires enormous amounts of experience reading and listening to what native speakers say.
+语言是……庞大的。它的内容远远超出课堂或App那种“x 意味着 y”或“x 做 y”的教学模式。要掌握一门语言到更高水平，需要大量的阅读和聆听，去了解母语者的表达方式。
 
-It's often difficult to grasp why they tend to use *that* phrase in *this* context, or *this* word instead of *that* other one… This creates a barrier for us learners as we can't just study grammar and vocabulary to achieve native-like fluency.
+通常你很难理解他们为什么会在*这个*情境中使用*那个*短语，或者为什么会用*这个*词而不是*另一个*词……这给我们这些学习者造成了一道屏障，因为我们无法仅靠学习语法和词汇来获得母语般的流利度。
 
-Without the prerequisite experience, attempting to construct sentences in your target language often leads to unnatural, or difficult to understand phrasing. In turn, lack of experience with how native speakers use their language makes it difficult to understand them, due to unfamiliarity with phrasing outside of a learning resource's scope.
+没有足够的经验，试图用目标语言造句往往会导致不自然或难以理解的表达。反过来，缺乏对母语者使用语言方式的经验也会使我们难以理解他们的表达，因为我们不熟悉学习资源之外的措辞方式。
 
-This is why in your learning routine, **you do what we call "immersion"—read and listen to what natives write and speak.**
+这就是为什么在你的学习过程中，**你要进行所谓的“沉浸”——阅读和聆听母语者的书写和讲话内容。**
 
-Language learning is a process of subconsciously memorising patterns with comprehensible input. What this means is, when you understand something (comprehensible) in your immersion (input), your brain subconsciously stores that pattern for later information retrieval. You see, being able to comfortably read this guide is only possible because you have so much experience reading English in the past that, when you read this, your brain thinks something like, "Oh, there's pattern #234 used with pattern #82 and pattern #10!".    
+语言学习是一个通过可理解输入来潜移默化记忆模式的过程。这意味着，当你在沉浸中理解某些（可理解的）内容（输入）时，大脑会下意识地储存这种模式，以便日后提取信息。你看，能够轻松阅读这篇指南，归因于你过去大量阅读中文的经验，当你读到这些内容时，你的大脑会想，“哦，这是模式 #234 和模式 #82 以及模式 #10 的组合！”
 
-And since you are a proficient English reader, this is done effortlessly. You can understand the words in these sentences. You can understand what links the sentences together. You can even detect the tone and degree of formality in my writing, and it's all thanks to your brain storing the context, and other information of all the language patterns that you've come across.
+而且，由于你是一个熟练的中文读者，这一切都可以毫不费力地完成。你能理解这些句子中的单词，能理解连接句子的逻辑，甚至能察觉我的语气和正式程度——这一切都得益于你的大脑储存了所有你接触过的语言模式的上下文和其他信息。
 
-Notice how I haven't mentioned "knowing the grammar" or "having memorised the vocabulary"? This is because you don't organically process language in this manner. Some readers may not even be native speakers and probably have studied English grammar before, but it is unlikely they're actively thinking about it when coming into contact with English every day.
+注意我没有提到“知道语法”或“背下词汇”吗？这是因为你不会自然地以这种方式处理语言。~~有些读者可能甚至不是母语者，可能之前学过中文语法，但在日常接触中文时，他们不太可能主动去想语法。~~
 
-## 1.4 Coming to terms with sucking 
+## 1.4 接受自己并不擅长 
 
 ![moyamoya](img/moyamoya_woman.png){:  style="display: block; margin: 0 auto; max-width:40%; height:auto;" }  
-In language learning, and in anything that requires skill, you are always going to start off struggling for a long time until you get better. As mentioned earlier, many learners (I am guilty of this too) fall into the trap of attempting to master something before ever trying to engage in practice with what they need to work on.  
+在语言学习中，或者在任何需要技能的领域中，一开始你总会经历一段漫长的挣扎期，直到逐渐进步。如前所述，许多学习者（我自己也不例外）会陷入试图在实践前掌握一切的误区。
 
-For example, a student might fuss over a certain aspect of grammar for way too long and never find the time to move on to something else they are better off spending their time with.
+例如，学生可能会在某个语法点上纠结太久，结果没有时间转向其他更值得花费时间的内容。
 
 <div style="text-align: center; font-weight:bold">
-<h3>↑ This here is what we want to avoid.</h3 >  </div>
-We have to get into the habit of letting go and start doing what we actually need to do. 
+<h3>↑ 这正是我们要避免的情况。</h3> </div>
+我们必须养成放手的习惯，开始做我们真正需要去做的事情。
 
-Yes, you won't understand that book or anime perfectly the first time, but that’s not how learning works. It always takes a third, fourth, fifth and even sixth attempt to finally learn something.
+是的，第一次你不会完全理解那本书或动漫的内容，但学习就是这样的过程。总是需要第三次、第四次、第五次，甚至第六次尝试才能真正学会某些东西。
 
-## 1.5 What even is "immersion"?  
+## 1.5 什么是“沉浸”？
 
-Immersion is when you interact with natural content in the target language. This means, content that is NOT made for or cherry picked for learners. Content that a native speaker of the language would also consume.  
+沉浸指的是你在目标语言中与自然内容互动。这意味着，这些内容**不是**专门为学习者准备或精心挑选的，而是母语者也会接触的内容。
 
-If you were an English learner, reading this guide right now would be "doing your English immersion", because this guide is not watered down or aimed at English learners. It is written for a native/proficient English speaking audience.  
+如果你是一名中文学习者，现在阅读这份指南就算是在“进行中文沉浸”，因为这份指南没有经过简化，也不是面向中文学习者，而是为母语/熟练的中文读者编写的。
 
-Thus, when you listen to, or read Japanese content that a Japanese person would also normally consume, you are doing immersion.  
+因此，当你听或阅读一个日本人通常也会接触的日语内容时，你就在进行沉浸。
 
-Technically, we would refer to this as *input*, but I like the term *immersion* more. 
+从技术上讲，我们会把这种过程称为*输入*，但我更喜欢使用*沉浸*这个词。
 
-## 1.6 A top-down approach to learning  
+## 1.6 自上而下的学习方法
 
-Learning a language requires you to be content with not understanding everything.  
+学习一门语言需要你接受无法理解所有内容的现实。
 
-It is drastically different from conventional ways of learning experienced at school where perfectionism is rewarded and you are graded according to an arbitrary criteria or through exams.  
+这与在学校中所经历的传统学习方式截然不同。在学校里，完美主义会得到奖励，你的成绩是基于某种主观标准或考试评定的。
 
-Usually, what happens when language learners try to interact with the real language, whether it is a TV series in that language, or a book, or even just having a normal conversation with natives, is they tend to get discouraged extremely quickly due to not understanding everything, or much at all. After all, it can seem counter-intuitive to keep going at it when you understand so little, but as explained earlier, learning a language is like jumping in the deep end.  
+通常，当语言学习者尝试接触真实语言时——无论是观看该语言的电视剧、阅读书籍，还是与母语者进行正常对话——由于理解不完全，甚至几乎无法理解，他们往往很快就会感到气馁。毕竟，当你理解得很少时，继续坚持下去似乎很不合常理。但如前所述，学习一门语言就像一头扎进未知的水域。
 
-What sets language learning apart from school-like subjects is it's too based on real-world and natural use that cannot conceivably be covered by study material.  
+语言学习的不同之处在于，它基于真实世界的自然使用方式，这无法完全被学习材料所涵盖。
 
-So, the only way you are going to get used to everything is by coming to terms with having low comprehension, because the more we interact with the language, the more we improve.  
+因此，唯一能让你逐渐适应的方法是接受低理解度的现实，因为我们与语言互动得越多，进步就越大。
 
-Of course, you will not be *only* doing immersion with no aid at all. You will study things like grammar and starter vocabulary on the side, and use dictionaries to learn the words from your immersion.  
+当然，你并不会*只*依靠沉浸而没有任何辅助。你会同时学习一些语法和基础词汇，并使用字典来学习沉浸中遇到的生词。
 
-## 2.1 How to learn Japanese
+## 2.1 如何学习日语
 
-### Beginner study process 
-The learning process for the beginner consists of:
+### 初学者的学习过程
+初学者的学习过程包括：
 
-- Learning the *hiragana* and *katakana*, which are two of the writing systems of Japanese. 
-- Learning basic vocabulary and their *kanji* with a program called *Anki*.
-- Learning grammar through a *YouTube* playlist.
-- Starting immersion with easy content and with high repetition. This is how you will be spending most of your time.
+- 学习*平假名*和*片假名*，这是日语的两种书写系统。
+- 使用一个叫做*Anki*的程序学习基础词汇及其对应的*汉字*。
+- 通过一个*YouTube*播放列表学习语法。
+- 从简单且重复率高的内容开始沉浸。这将是你大部分时间的学习方式。
 
-## 2.2 Hiragana and Katakana  
+## 2.2 平假名与片假名  
 
 <figure>
   <img src="/img/kana3.png" style="display: block; margin: 0 auto;" / alt="HIRAGANA AND KATAKANA IN SCRIPTS">
-  <figcaption>"Hiragana" and "Katakana" written in their scripts respectively.</figcaption>
+  <figcaption>「ひらがな」和「カタカナ」分别用其对应的文字书写。</figcaption>
 </figure> 
 
-*Hiragana* and *katakana* are two parts of the Japanese writing system with the third part being *kanji*
+*平假名*（*hiragana*）和*片假名*（*katakana*）是日语书写系统的两部分，第三部分是*汉字*（*kanji*）。
 
-Japanese's writing system can be described as more of a "syllabary" than an alphabet. It is technically wrong to call these alphabets, as each character represents a syllable rather than a vowel or consonant. Take for example, 「か」, which reads as "ka".  
+日语的书写系统更适合被描述为“音节文字”而不是字母表。严格来说，把这些称为字母是不准确的，因为每个字符代表的是一个音节，而不是单独的元音或辅音。例如，「か」的发音是“ka”。
 
-*Hiragana* and *katakana* are collectively referred to as the "**kana**".  
+*平假名*和*片假名*统称为“**假名**”。
 
-*Hiragana* and *katakana* represent every sound in the Japanese language. While you can technically write Japanese entirely in *kana*, this isn't how real Japanese is usually written, as it uses a combination of *kana* (*hiragana* and *katakana*), and *kanji*.  
+*平假名*和*片假名*包含了日语中的每一个音节。虽然从技术上来说，你可以完全用*假名*来书写日语，但这并不是实际的日语书写方式。实际书写中，日语使用*假名*（*平假名*和*片假名*）与*汉字*的组合。
 
-### Hiragana 
+### 平假名 
 <figure>
   <img src="/img/hiragana.png" / alt="HIRAGANA">
-  <figcaption>An example of a couple hiragana. This isn't all of them.</figcaption>
+  <figcaption>几个平假名的例子。这不是全部。</figcaption>
 </figure> 
 
-*Hiragana* can be described as the "main alphabet" of Japanese. It's the curly and cute variant of *kana*.  
-It is usually used in:  
+*平假名*可以被描述为日语的“主要字母表”。它是*假名*中较为圆润可爱的形式。
 
-- Grammatical things
-- Parts of words with Japanese origin
-- Words that aren't usually written in *kanji*
+平假名通常用于：
 
-It may also be used in:
+- 语法成分
+- 含有日语词源的词语部分
+- 通常不以*汉字*书写的词语
 
-- Names
+平假名也可以用于：
 
-### Katakana
+- 名字
+
+### 片假名
 <figure>
   <img src="/img/katakana.png" / alt="KATAKANA">
-  <figcaption>An example of a couple katakana. This isn't all of them.</figcaption>
+  <figcaption>几个片假名的例子。这不是全部。</figcaption>
 </figure> 
 
-*Katakana* is the angular and pointy version of kana. It has the exact same sounds as *hiragana*. 
-It is usually used in:  
+*片假名*是*假名*中棱角分明、尖锐的版本。它的发音与*平假名*完全相同。
 
-- Foreign, loan words (words borrowed from other languages like English)
-- Onomatopoeia words (Japanese is full of these!)
-- Slang words
+片假名通常用于：
 
-It may also be used in:  
+- 外来词（从其他语言借来的词，如英语）
+- 拟声词（日语中有很多！）
+- 俚语词汇
 
-- Names, mainly foreign names
+片假名也可能用于：
 
-### How to learn the kana
+- 名字，主要是外国名字
 
-#### Step 1 - the chart
+### 如何学习假名
 
-First I want you to take a good look at this *kana* chart.
+#### 第一步 - 五十音图
+
+首先，我希望你仔细看看这张五十音图。
 
 <figure>
   <img src="/img/hiragana_katakana_LARGE.png" / alt="HIRAGANA AND KATAKANA">
   <figcaption>
-      Full chart of singular kana<br><a href="/img/hiragana_katakana_LARGE.png" target="_blank">View in browser</a><br>
-<a href="/img/hiragana_katakana_LARGE.png" download>Download image</a>
+      五十音图<br><a href="/img/hiragana_katakana_LARGE.png" target="_blank">在浏览器中查看</a><br>
+<a href="/img/hiragana_katakana_LARGE.png" download>下载图片</a>
   </figcaption>
 </figure>
 
 
-This chart will come in really handy when you are learning to read the *kana*. I recommend you save it.  
+这个表在你学习*假名*阅读时会非常有用。我建议你保存它。
 
-Things you can do with the chart:
+你可以用这个表做以下事情：
 
-- Learn to read *kana* by referring to the table. The columns represent vowel sounds, and the rows represent consonant sounds. Since 「か」 is in the K row and in the A column, it is pronounced "ka".  
-- Learn how they are written by looking at the stroke orders (the little blue arrows and numbers on the characters).  
-- Use it as a master reference for all singular *kana*. This will help you a lot when you are learning how to read Japanese.  
+- 通过查表学习*假名*的读法。列表示元音音节，行表示辅音音节。因为「か」在K行和A列，所以发音为“ka”。
+- 通过观察笔顺（字符上的小蓝箭头和数字）学习*假名*的写法。
+- 将其作为所有单个*假名*的参考。这将极大地帮助你学习如何阅读日语。
 
-#### Step 2 - the YouTube video
-<h3><a href="https://youtu.be/_wZHqOghvSs" target="_blank">Watch this YouTube video</a></h3>
-It's a 2 hour long video about *hiragana* and *katakana*. It is a great introduction into the *kana*.
+#### 第二步 - YouTube 视频
+<h3><a href="https://youtu.be/_wZHqOghvSs" target="_blank">观看这个 YouTube 视频</a></h3>
+这是一个关于*平假名*和*片假名*的2小时视频，是对*假名*的一个很好的介绍。
 
-#### Step 3 - the grinding
-Once you have done that, play this *kana* grinding game.  
-<h3><a href="https://gohoneko.neocities.org/learn/kana" target="_blank">The kana grinding game</a></h3>
+#### 第三步 - 刷题练习
+完成上一步后，玩这个*假名*练习游戏。
+<h3><a href="https://gohoneko.neocities.org/learn/kana" target="_blank">假名练习游戏</a></h3>
 
-<h4>How to play</h4>
+<h4>游戏玩法</h4>
 
-1. Click "show/hide options".
-2. Click "check all" for *Hiragana*.
-3. Start guessing how the *hiragana* are *pronounced*.
-4. Repeat until confident (may take a few days or weeks), and then do the same thing but with all "Hiragana combinations" also checked.
-5. Repeat until confident, then do it with all "Katakana" also checked, and then with all "Katakana combinations" also checked.
+1. 点击“show/hide options”。
+2. 为*平假名*点击“check all”。
+3. 开始猜测*平假名*的*发音*。
+4. 重复直到有信心（可能需要几天或几周），然后以同样的方法进行，但这次也勾选所有“平假名组合”。
+5. 重复直到有信心，然后勾选所有“片假名”，再重复直到有信心，最后勾选所有“片假名组合”。
 
-This whole process can take up to 3 weeks to a month depending on the person. Do not feel discouraged if this part of learning Japanese is taking a while, as there are other things to do such as beginner level immersion.
+整个过程可能需要长达3周到1个月的时间，具体因人而异。如果这部分学习日语的过程需要花费较长时间，不要感到气馁，因为还有其他事情可以做，比如初学者级别的沉浸学习。
 
-#### Step 4 - reading practice
+#### 第四步 - 阅读练习
 
-What also helps immensely in memorising the *kana* is reading sentences in kana.   
-Not everything in Japanese is written in kana, and you will have trouble trying to read most things at this point without *kanji* knowledge, but sometimes in Japanese, kana is put over *kanji* to help you read. This is known as *furigana*. An example can be seen here! 
+在记忆*假名*时，阅读*假名*句子也会有很大帮助。  
+日语中并不是所有内容都是用*假名*书写的，在没有*汉字*发音知识的情况下，你在这一阶段会很难朗读大多数内容，但在某些情况下，日语中会在*汉字*上方标注*假名*以帮助你阅读，这被称为*振假名*（*furigana*）。举一个例子！ 
 <ruby>
   日本語<rp>(</rp><rt>にほんご</rt><rp>)</rp>
-</ruby>. This just means the Japanese language ("nihongo"). I wrote it in its *kanji* form and put *hiragana* over it.
+</ruby>. 这只是表示日本語（“nihongo”）。我用*汉字*写出并在上面标注了*平假名*。
 
-I recommend practising your *kana* by trying to read some Tadoku graded readers, which you can find [here](https://tadoku.org/japanese/free-books/#l0).
+我建议你通过阅读一些Tadoku分级读物来练习*假名*，你可以在[这里](https://tadoku.org/japanese/free-books/#l0)找到。
 
-<strong><h3>You do not need to be able to understand anything right now. This is just for getting better at reading kana.</h3></strong><br>
+<strong><h3>你现在不需要理解任何内容。这只是为了提高*假名*阅读能力。</h3></strong><br>
 
-## 2.3 Vocabulary & Kanji
+## 2.3 词汇与汉字
 
-### Kanji, the oddball
+译者注：原指南这一小节写给不识汉字的洋人，主旨是不用纠结音读还是训读，只背完整的单词。但如果你想快速上手音读的话，有练习看偏旁部首猜读音的[Anki牌组](/kanjiphonetics)。
+
+### 汉字，特别的存在
 
 <figure>
-  <img src="/img/kanji2.jpg" / alt="FIRST 80 KANJI">
-  <figcaption>The first 80 kanji taught to Japanese 1st graders.</figcaption>
-</figure> 
+  <img src="/img/kanji2.jpg" alt="前80个汉字">
+  <figcaption>日本小学一年级教授的前80个汉字。</figcaption>
+</figure>
 
-*Kanji*, meaning "Chinese characters", is another one of the writing systems used in Japanese. They are logographic and are much more complex and wider in variety than *kana*. There are around 2000 to 3000 of them used in Japanese, however, do not let this number demotivate you, because *kanji* are not to be studied and grinded like *kana* are.  
+*汉字*，意思是“中文字符”，是日语的另一种书写系统。它们是表意文字，结构比*假名*复杂得多，种类也更为广泛。在日语中大约使用了2000到3000个汉字，但不要被这个数字吓到，因为*汉字*的学习方式不同于*假名*，不需要像假名那样集中记忆和练习。
 
-*Kana* are **phonetically consistent** and few in number so they can be studied in isolation and mastered in a short amount of time, however, *kanji* are not. They aren't used in the same way either, and aren't exactly logical. What do I mean by that?
+*假名*是**音素一致**且数量较少的，因此可以单独学习并在短时间内掌握，而*汉字*则不然。它们的使用方式不同，也不是完全合乎逻辑的。这是什么意思呢？
 
-Let's take this as an example. Because *kana* represents the sounds in Japanese, we can write whatever we want according to the sounds as long as a kana exists for it, this includes writing English words. 
+我们以此为例。因为*假名*代表日语中的发音，我们可以根据发音书写任何内容，只要有相应的假名存在，包括用假名书写英语单词。
 
-Now imagine I wrote the **English** sentence "I am learning Japanese" but using *kana*, it would be:
-> "あい　あむ　らあにんぐ　じゃぱにいず"  
+假设我用*假名*写了**中文**句子“我在学日语”，那就会变成：
+> “ウォ　ザイ　シュエ　リ　ユ”
 
-Of course, this is ridiculous and there is no reason why you would ever want to do that, but the point being: you aren't exactly able to do this with kanji without it being completely unreadable and incomprehensible. But why then, do we use kanji? **Because of words.** Words use kanji, and therefore...    
+当然，这看起来很荒谬，也没有任何实际的意义，但重点是：日语中你无法用*汉字*这样做，否则它会完全不可读且无法理解。那么，为什么我们要使用汉字呢？**因为词汇。** 词汇使用汉字，因此……
 
-Kanji only make sense when they are used in words.  
+汉字只有在词汇中使用时才有意义。
 
-I repeat,
+我再强调一次，
 
 <div style="border: 4px solid #333; padding: 10px; margin: 10px 0; border-radius: 10px; font-size: 30px; font-weight: bold; text-align: center;">
-  Kanji only make sense when they are used in words!
-</div> 
+  汉字只有在词汇中使用时才有意义！
+</div>
 
-Every language has **a lot** of words, and different words have different meanings. Chinese, and Japanese for whatever reason decided they are going to use kanji to piece together different words and their different meanings. That is why there are so many of them and why you shouldn't let them scare you as they are meant to be learned along with the words that use them. After all... no one is going to think to front-load all the words before they learn how to read! That's ridiculous.  
+每种语言都有**大量**词汇，不同的词汇有不同的含义。无论出于何种原因，中文和日语选择使用汉字来拼接不同的词汇及其含义。这就是为什么汉字数量如此之多，也就是你不应该被汉字吓倒的原因，因为它们是随词汇一起学习的。毕竟……没有人会在学会如何阅读之前先去背所有的单词！那太荒唐了。
 
 <div style="border: 1px solid #333; padding: 10px; margin: 10px 0; border-radius: 10px; font-size: 18px; font-weight: bold; text-align: center; font-style: italic;">
-  Kanji aren't words, but they make up the building blocks.  
-</div> 
+  汉字不是词汇，但它们是构建词汇的基础。
+</div>
 
-Japanese has extra steps when it comes to learning how to read; due to kanji you need to constantly refer to a dictionary to learn how to read anything at all.  
-Take this for example, if I showed you the word, **今日**, chances are you wouldn't be able to read it, or know what it means. How you learn how to read it is by looking it up in a dictionary, such as [Jisho.org](https://jisho.org/).  
-The dictionary shows it is read as **きょう**, and means *today*. If we had to look this word up while reading something, we internalise this piece of information and move on.  
-Tedious... but there are tools such as [Yomitan](/yomichan) that can do all this with a single press. 
+学习日语的阅读需要额外的步骤；由于汉字的存在，你需要不断查阅字典来学习如何阅读任何内容。
+举个例子，如果我展示给你一个词**今日**，很可能你不知道如何读它，也不知道它的意思。你可以在字典中查找，比如[Jisho.org](https://jisho.org/)。
+字典会显示这个词的读音为**きょう**，意思是“今天”。如果我们在阅读时查到了这个词，我们会将这一信息内化，然后继续阅读。
+虽然过程有些繁琐……但有工具如[Yomitan](/yomichan)，只需按一下即可完成这些操作。
 
-### A note on studying kanji in isolation
+### 关于单独学习汉字的说明
 
-Kanji study methods have been a matter of debate for as long as learning Japanese has been a thing. One of the common problems that arise when beginners try to read Japanese is that kanji can look too similar to each other and that their shapes don't make sense.  
+自从日语学习存在以来，汉字学习方法就一直是一个争论的话题。初学者在尝试阅读日语时常遇到的问题之一是汉字看起来很相似，形状也难以理解。
 
-While they may look like random shapes, kanji are actually formed from common components. Take for example the kanji **萌**, that is being used as the icon for this website. It is actually made up from 3 common kanji components that are used in lots of other kanji as well. 
+尽管它们看起来像随机的形状，但实际上汉字是由一些常见的部件组成的。比如这个汉字**萌**，它被用作本网站的图标。它实际上是由3个常见的汉字部件组成的，这些部件也出现在许多其他汉字中。
 
 ![Kanji](img/kanji.png)   
 
-While optional, learners that are struggling to tell apart different kanji may want to try studying kanji by their components in isolation. An additional *Anki deck* (explained in the next section) can be used to do this. You can find the deck [here.](https://mega.nz/file/2SJiWC4b#hL98qtC_hiLlQDg0LqVJoqD2-5ywT2Nwd4kjROY_KwQ)  
+虽然是可选项，但如果学习者在区分汉字方面遇到困难，可能希望尝试单独学习汉字的部件。可以使用一个额外的*Anki牌组*（在下一节解释）来完成这一点。你可以在[这里](https://mega.nz/file/2SJiWC4b#hL98qtC_hiLlQDg0LqVJoqD2-5ywT2Nwd4kjROY_KwQ)找到该牌组。
 
 
-## 2.4 Learning Vocabulary
-To get a feel for kanji and how they are used together in words, I recommend you work through a beginner-level vocabulary deck for Anki. This is a deck consisting of around *1500* words aimed at teaching you the most common Japanese words to jumpstart your Japanese learning.  
+## 2.4 学习词汇
+为了熟悉汉字的日语读音以及它们如何在词汇中结合使用，我建议你使用Anki的初级词汇牌组。这是一个包含大约*1500*个单词的牌组，旨在帮助你学习最常见的日语单词，快速开启你的日语学习之旅。
 
-### Quick Anki Setup
-Anki is a flashcard program designed to help you remember large amounts of information, such as vocabulary.  
+### Anki 快速设置
+Anki 是一个助记卡程序，旨在帮助你记住大量信息，如词汇。
 
-Visit the [Anki download page](https://apps.ankiweb.net/), and download the version of Anki for your system and install it. 
+访问[Anki下载页面](https://apps.ankiweb.net/)，下载适用于你的系统的Anki版本并安装。
 <figure>
-  <img src="/img/ankidownload.png" / alt="Anki Download Page">
-  <figcaption>Download the one for your system.</figcaption>
+  <img src="/img/ankidownload.png" alt="Anki下载页面">
+  <figcaption>下载适合你系统的版本。</figcaption>
 </figure>  
 
-When opening Anki for the first time, you will be asked to set your display language, just leave it at the default (English).    
+首次打开Anki时，会要求你设置显示语言，选择简体中文或日本語都可以。
 
-The beginner deck I recommend is [Kaishi 1.5k](https://github.com/donkuri/Kaishi/releases) which can be downloaded [here](https://github.com/donkuri/Kaishi/releases) (click the .apkg link)  
+我推荐的初学者牌组是[Kaishi 1.5k](https://github.com/donkuri/Kaishi/releases)，可以[在此下载](https://github.com/donkuri/Kaishi/releases)（点击.apkg链接）。（译者注：此处原作者推荐了日/英牌组，日/中牌组请自行寻找合适的）
 
-After the download is complete, import the deck by clicking "Import file" and navigating to the downloaded file (.apkg) and then click Import on the top right.  
-### Quick Anki Usage Guide
+下载完成后，点击“导入文件”（ファイルをインポート），找到下载的文件（.apkg），然后点击右上角的“导入”（インポート）。
+### Anki 快速使用指南
 
-Before studying, I recommend changing some settings first. Click the cog icon next to the deck, and go on *Options*.  
+在开始学习之前，我建议先更改一些设置。点击牌组旁的齿轮图标，进入*选项（オプション）*。
 
-Change the *Maximum reviews/day* from `200` to `9999`. Don't be alarmed by this number, your reviews probably won't ever reach that high, it's just uncapping your daily review limit for the optimal experience.  
+将*每日复习卡片的上限（一日の復習枚数の上限）*从`200`改为`9999`。不要被这个数字吓到，你的复习量可能永远不会达到这么高，这只是为了提升体验，解除每日复习上限。
 
-As for *New cards/day*, I think `20` might be too big of a commitment for some. If you aren't feeling confident learning 20 new words per day, try dropping the number down to `10` or lower.   
+至于*每日新学卡片的上限（一日の新規カード導入枚数の上限）*，我认为`20`对某些人来说可能是个大负担。如果你觉得每天学习20个新单词不太自信，可以把数字降低到`10`甚至更少。（译者再插一嘴：如果你的目标是润日，设为`300`、`500`乃至一天完成全部`1500`个可能比较合理）
 
-When you first start studying the *Kaishi 1.5k* deck, the first card will be an explanation card. You can delete this by going in "More" and clicking "Delete Note"
+当你第一次开始学习*Kaishi 1.5k*牌组时，第一张卡片将是一张说明卡。你可以点击“更多”（その他）→ “删除笔记”（ノートを削除）。
 
-Anki helps you remember things by testing your knowledge of what is on the back of the card. What you are being tested for here is whether you know the meaning and how to read the word. Everything else on the card is only there for aid.  
-Please note that while *Kaishi 1.5k* includes sentences, it is only designed to teach you single words.   
+Anki通过测试卡片背面的内容来帮助你记忆。这里测试的是你是否知道单词的意思和读音。卡片上的其他信息仅供辅助。
 
-When seeing an unfamiliar Anki card for the first time, the general rule of thumb is to click *Show Answer* so you can see what's on the back of the card.   
+请注意，尽管*Kaishi 1.5k*包含例句，但它仅用于教授单个单词。
+
+第一次看到不熟悉的Anki卡片时，通常的做法是点击*显示答案（解答を表示）*，以便查看卡片背面的内容。
 <figure>
-  <img src="/img/ankikaishi.png" / alt="Anki Kaishi Deck">
-  <figcaption>The pieces of information you need to memorise.</figcaption>
+  <img src="/img/ankikaishi.png" alt="Anki Kaishi 牌组">
+  <figcaption>需要记忆的知识要点。</figcaption>
 </figure>  
-Once you have had a good look, press *Again* (this is short for try again). You will be on the next card, do the same thing as it is also a card you are seeing for the first time.  
-The next time you see the card, it is knowledge testing time. Try your best to remember the meaning and reading that was on the back of the card and grade yourself! 
 
-This, in essence, is how we are going to learn vocabulary in the beginner stage.  
+仔细查看后，点击*重来（もう一度）*。进入下一张卡片，重复相同的步骤，因为这是你第一次看到这张卡片。
+下一次看到卡片时，就是测试知识的时候了。尽力回忆卡片背面的意思和读音，并为自己评分！
 
-Once you have completed your new cards for the day, make sure you come back the next day to check your reviews!   
+这基本上就是我们在初级阶段学习词汇的方式。
 
-## 2.5 Grammar
+完成当天的新卡片后，记得第二天回来检查你的复习卡片！
 
-Learning grammar can be straightforward and complex at the same time. It's quite essential to learning Japanese and while it might seem daunting at first, 
-there are resources out there that help make the learning process easier. The grammar learning process is relatively simple; just pick up a guide and read/watch it.    
+## 2.5 语法
 
-There have been many resources throughout the years that teach grammar, many great and many not so great. Due to the nature of the topic, just one grammar resource may not be enough for everyone.
+学习语法既可以是简单的，也可以是复杂的。它在日语学习中相当重要，尽管一开始可能会让人望而生畏，但有许多资源可以帮助简化学习过程。语法学习过程相对简单；只需找到一个指南并阅读或观看即可。
 
-Here are a few guides ranked based on how much I recommend them to total beginners You do not need to do every single one, just find the one that works well for you.
+多年来已经有很多语法学习资源，其中有很多优秀的，也有很多不那么好的。由于主题的性质，单一的语法资源可能无法满足每个人的需求。
 
-[Cure Dolly's Organic Japanese YouTube Playlist](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj) ([transcript](https://docs.google.com/document/d/1XpuXerkGU8waJ4DPDNJA4bGeqOvM-csXjTe57iHARHc/edit))    
-[Tae Kim's Guide to Japanese](https://gohoneko.neocities.org/grammar/taekim)  
-[Japanese Ammo with Misa Grammar YouTube Playlist](https://www.youtube.com/playlist?list=PLd5-Wp_4tLqYZxS5j3g6kbeOfVXlTkr3N)    
+以下是一些我推荐给完全初学者的指南。您不必每项都完成，只需找到适合您的即可。
+
+（译者注：下列全是英语讲授的日语语法资源，中文资源自行在油管/b站寻找）
+
+[Cure Dolly 的有机日语 YouTube 播放列表](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj)（[文字记录](https://docs.google.com/document/d/1XpuXerkGU8waJ4DPDNJA4bGeqOvM-csXjTe57iHARHc/edit)）  
+[Tae Kim 的日语指南](https://gohoneko.neocities.org/grammar/taekim)  
+[Japanese Ammo with Misa 语法 YouTube 播放列表](https://www.youtube.com/playlist?list=PLd5-Wp_4tLqYZxS5j3g6kbeOfVXlTkr3N)  
 [Sakubi](https://gohoneko.neocities.org/learn/anon/sakubi)  
-[IMABI](https://imabi.org/)    
+[IMABI](https://imabi.org/)  
 
-It is prime time to start getting some immersion going when you have learned some new grammar points. Seeing how the grammar you learned is applied in real usages really helps further your understanding of the grammar points.   
+当您学到了一些新的语法点后，正是开始沉浸的最佳时机。观察您所学语法的实际应用，真的能帮助您进一步理解语法点。
 
-## 2.6 Beginner immersion: an uphill battle
+## 2.6 初学者的沉浸：艰难的开端
 
-If you recall from section 1.3, I touched on something known as comprehensible input. This is input that is understandable at your level, where there’s just a few missing pieces of the puzzle every few sentences. With this sort of immersion, you subconsciously fill in the incomprehensible parts with educated guesses based on context, which is what makes this type of input so useful for the purposes of language learning.
+如果您还记得第1.3节中提到的内容，我提到了所谓的“可理解输入”。这指的是在您的水平上可以理解的内容，其中每隔几句只有一些不完全理解的小缺口。通过这种沉浸方式，您会根据上下文通过合理推测来填补不理解的部分，这种输入对语言学习的效果特别好。
 
-Now you may have noticed a problem here. What do you do if you don’t have access to comprehensible input? As a complete beginner, there is no content that is easy. In fact, this is why people often fall into the endless cycle of reading from beginner resource to beginner resource. Though incomprehensible input is by no means useless—it does have its benefits and assists with learning—it is very difficult to get past that initial hurdle. 
+您可能已经注意到了一个问题。如果您无法获得可理解的输入怎么办？作为一个完全的初学者，没有任何内容是容易的。事实上，这就是为什么人们往往陷入无止境地从一个初学者资源读到另一个初学者资源的循环中。尽管不可理解的输入并非毫无用处——它确实有辅助学习的好处——但要跨过最初的障碍确实很困难。
 
-Failing to understand the content you want to enjoy inherently sucks unless you take a specific mindset to it—taking pleasure in the knowledge that you are making gradual progress, even if that progress is immediately imperceptible. However, it’s difficult to maintain this mindset all the time, so it isn’t reliable as the sole motivator for consistency—the number one key of mastering any skill!
+除非您采取特定的心态，否则无法理解自己想要享受的内容本质上是令人沮丧的——这种心态就是欣赏自己在逐渐进步的过程中，即使这种进步还无法马上察觉。然而，要一直保持这种心态并不容易，因此它并不可靠，不能成为坚持学习的唯一动力——而坚持是掌握任何技能的首要关键！
 
-So how can we make it so we don’t constantly dread having to parse through content that is difficult to understand?
+那么，我们如何避免一直害怕面对难以理解的内容呢？
 
-The answer is actually very simple. Fun! Media can be entertaining for reasons other than language content. By choosing media that also has high entertainment value regardless of its language level, we are able to stay consistently engaged and motivated to continue our immersion. Then, as our language experience grows, we naturally find ourselves understanding more and more, and the once seemingly unattainable goal of finding comprehensible input has now become a given, with the goal rather shifting to finding content that is difficult enough to push us to continue learning.  
+答案其实很简单——乐趣！媒体可以因为语言内容之外的原因而具有娱乐性。通过选择那些即使语言水平要求较高也具有高度娱乐价值的媒体，我们能够保持一致的参与感和动力，从而继续我们的沉浸学习。然后，随着我们语言经验的增长，我们自然会发现自己能理解的内容越来越多，曾经似乎遥不可及的可理解输入目标现在已成了理所当然的目标，目标转变为寻找足够具有挑战性的内容，以继续推动我们学习。
 
-## 2.7 How to immerse
+译者注：以下这张图也能赋予你克服困难、学好日语的动力：
 
-### Reading & Dictionaries
+<div class="Gif" style="width: 500px; height: 500px;"><video width="500" height="500" loop="" autoplay="true" preload="auto" playsinline="true" style="max-width: 500px;"><source src="https://media.tenor.com/eoiQqeI38rAAAAPo/%E4%BD%A0%E6%B0%B8%E9%81%A0%E6%98%AF%E4%B8%AD%E5%9C%8B%E4%BA%BA-%E5%82%B3%E5%A5%87%E5%85%84%E5%BC%9F.mp4" type="video/mp4"><source src="https://media.tenor.com/eoiQqeI38rAAAAPs/%E4%BD%A0%E6%B0%B8%E9%81%A0%E6%98%AF%E4%B8%AD%E5%9C%8B%E4%BA%BA-%E5%82%B3%E5%A5%87%E5%85%84%E5%BC%9F.webm" type="video/webm"></video></div>
 
-To make Japanese less of a pain to read, you can use a free browser extension known as Yomitan. You can find a tutorial on how to use it [here](/yomichan)  
+## 2.7 如何沉浸
 
-To look up words individually, you can use [Jisho.org](https://jisho.org/), apps for your phone include [Akebi](https://play.google.com/store/apps/details?id=com.craxic.akebifree) for Android and [Shirabe Jisho](https://apps.apple.com/us/app/shirabe-jisho/id1005203380) for iOS.  
+### 阅读与词典
 
-### Choosing immersion content
+为了让日语阅读不那么困难，您可以使用一个免费的浏览器扩展工具 Yomitan。您可以在[这里](/yomichan)找到如何使用它的教程。
 
-Honestly, pick whatever you want. It can be any anime, movie, J-drama, novel, light novel, manga, visual novel, game or YouTube video. If you don't have anything in mind you can just watch [my favourite anime](https://hianime.to/watch/love-live-school-idol-project-1706?ep=22404). Just make sure you're actually interested in whatever you're choosing to immerse with!  
+要单独查找单词，可以使用 [Jisho.org](https://jisho.org/)，手机应用包括 Android 的 [Akebi](https://play.google.com/store/apps/details?id=com.craxic.akebifree) 和 iOS 的 [Shirabe Jisho](https://apps.apple.com/us/app/shirabe-jisho/id1005203380)。
 
-### How to immerse with listening  
+### 选择沉浸内容
 
-Listening is almost entirely a top-down, "intuitive" approach. We don't want to think too hard over things when we are listening. Go with the flow until you find a really good oppportunity to pause and look something up.  
-There are certain levels to listening. Level one would be free-flow listening, where you let the listening flow without looking things up. Level two would be looking things up that pop out at you but still letting the listening play. Level three would be pausing at every single unknown word and looking them up.   
-In the beginner to intermediate stages, listening is entirely level one and level two listening. Don't think too hard about it and cherish all the little opportunities you get.   
+老实说，随意挑选您想看的内容。可以是任何动漫、电影、日剧、小说、轻小说、漫画、VN、游戏或 YouTube 视频。如果您没有想法，可以观看[我最喜欢的动漫](https://hianime.to/watch/love-live-school-idol-project-1706?ep=22404)。只要确保您对选择的沉浸内容确实感兴趣！
 
-#### "Active" and "Passive" listening
+### 如何通过听力进行沉浸
 
-Active listening is when you are paying full attention to your listening. You are engaging with all aspects of it like looking at the screen and listening to the anime. This is the type of listening where you are making the most gains.  
+听力几乎完全是一种“直觉”的、自上而下的方式。聆听时我们不用想太多。随听随流，直到找到一个特别好的机会暂停并查某些词。
+听力有几种层次。第一层是自由听力，让听力自然流动，不查任何词。第二层是查找突出的单词，但仍然保持听力播放。第三层是暂停并查找每一个不熟悉的单词。
+在初级到中级阶段，听力完全是第一层和第二层的听力。不要想太多，珍惜您获得的每一个小机会。
 
-Passive listening is where you do something else and have the listening on in the background. This helps when you intermittently listen in on your listening for brief moments, it can hugely benefit you if you have a busy lifestyle. I actually recommend doing passive immersion to fill in the gaps where you're usually not doing Japanese.  
+#### “主动”与“被动”听力
 
-### How to immerse with reading
+主动听力是指您全神贯注地聆听的过程。您会关注各个方面，如看屏幕和听动漫。这是您取得最大进步的听力方式。
 
-In contrast to listening, reading is sort of a bottom-up, take-your-time, "analytical" approach. You can take as much time as you'd like reading sentences and looking up words. The process loop is essentially **read → look up word → reaction → read more → look up word → (repeat)**. For a while, it is going to seem like banging your head against a wall, but this is really just how you're going to build up reading ability.  
-Reading content with a visual component such as anime with Japanese subtitles (detailed in [UsagiSpoon](/routine)), manga and visual novels can help ease you into reading.  
+被动听力是在做其他事情时让听力在后台播放。这有助于您间歇性地用碎片时间练习听力，从中获得巨大收益。如果您有忙碌的生活方式，我实际上推荐做被动沉浸来填补您通常不使用日语的时间。
 
-### Ideal ratio between listening and reading  
+### 如何通过阅读进行沉浸
 
-In the beginner stage I recommend a 7:3 listening to reading ratio. This is mainly because listening is the most natural form of the language, so I believe it is essential to prioritise it to make your brain process Japanese more naturally.  
-You can start to lower the amount of listening to an equal 5:5 ratio when you get better at Japanese.  
+与听力相反，阅读是一种自下而上的、“分析式”的方式，您可以花费任意多的时间来阅读句子并查找单词。过程循环基本是 **阅读 → 查词 → 反应 → 读更多 → 查词 → （重复）**。很长一段时间内，这似乎像是撞墙，但这确实是您提升阅读能力的方式。
+阅读带有视觉元素的内容，例如带日文字幕的动漫（在[UsagiSpoon](/routine)中详细介绍）、漫画和VN，可以帮助您逐渐适应阅读。
 
-## 2.8 Beginner learning loop
+### 听力和阅读之间的理想比例
 
-### The wrong way to do it
+在初期，我建议 7:3 的听力与阅读比例。这主要是因为听力是语言中最自然的形式，因此我认为优先考虑它以使大脑更自然地处理日语是很重要的。
+当您日语变得更好时，您可以开始将听力比例降低到 5:5 的平衡比例。
 
-!!! failure "The wrong way"
-    Learn ALL the kana, then learn ALL the 1500 words in Kaishi, then learn ALL the grammar before you finally try immersion for the first time...  
+## 2.8 初学者学习循环
 
-This is a terrible approach. You need to do a bit of everything.  
+### 错误的方法
 
-### The right way to do it  
+!!! failure "错误的方法"
+    学完所有的假名，然后学完 Kaishi 中的所有1500个单词，然后学完所有语法，然后才第一次尝试沉浸……
 
-While you are learning the kana, I suggest you get into the immersion spirit by trying to watch something in Japanese without subtitles. It can be anything you like, and you don't need to understand anything.  
-After that you should learn vocabulary and grammar at the same time. How about doing 10 new words and learn 2 grammar points per day?  And in the same day, try to get some immersion in.  
+这是一个糟糕的方法。您需要每样都做一点。
 
-!!! question "How long should I do immersion per day?"
-    I recommend around 1 hour to 2 hours when starting out. There is no harm in doing more immersion than that, and you will improve faster with more immersion per day.  
+### 正确的方法
 
-## 3.1 Regarding speaking and writing (output)  
+我建议您在学习假名的同时就进入沉浸状态，试着在没有字幕的情况下观看日语内容。可以是您喜欢的任何内容，而且您不需要理解任何内容。
+之后，您应同时学习词汇和语法。每天学习10个新单词和2个语法点如何？然后在同一天进行一些沉浸学习。
 
-People often have the misconception that speaking the language a lot is how you get better at the language, but this isn't really the case, as the input we receive from hearing and seeing natives use their language is what actually benefits us. While output won't directly improve your proficiency at the language, it is still quite important to be practicing output, whether it is by texting or with speech, because input and output go hand in hand. Doing output effectively forces your brain to make sure it is correctly understanding the words you are hearing and you may start to subconsciously look for opportunities to use what you hear in input.  
-Regular output along with regular input is recommended.     
+!!! question "每天应该沉浸多长时间？"
+    我建议从 1 到 2 小时开始。做更多的沉浸学习没有坏处，每天的沉浸时间越多，进步就越快。
 
-Contrary to what many immersion-based learning methods say, I do not believe it is a smart idea to delay your output until you are "really good" for reasons such as "saying things incorrectly is going to "cripple" or "ruin" your Japanese". Doing this makes you miss out on so many opportunities to pick up on things to use in your output earlier and brainwashes you into a toxic perfectionist mindset, becoming extremely protective of your Japanese. 
+## 3.1 关于口语和写作（输出）
 
-Throughout my 4+ years of running TheMoeWay and talking to all sorts of immersion learners, I haven't seen many that are confident in output. Why is that? Well for most of them, they don't even want to try outputting at all because they're scared of saying something broken, or scared that it's going to ruin their Japanese, or scared that somebody may laugh at them etc. All of this is a product of a toxic perfectionist mindset that hurts immersion learning.  
+人们常常误以为大量说语言是提高语言水平的方法，但事实并非如此，因为我们从听取和观察母语使用者那里获得的输入才是真正对我们有益的。尽管输出不会直接提高您的语言熟练度，输出练习还是很重要的，无论是通过文本还是语音，因为输入和输出相辅相成。有效的输出会强迫您的大脑确认自己正确理解了听到的单词，同时您可能会开始下意识地寻找机会使用输入中学到的内容。
+推荐进行定期输出与定期输入相结合。
 
-## 3.2 Pronunciation & Pitch Accent
+与许多沉浸学习方法的说法相反，我并不认为由于“说错会‘毁掉’我的日语”这样的理由而推迟输出直到“日语真的很好”是明智的。这会让您错过许多早期就能在输出中使用的机会，并让您陷入一种有害的完美主义心态，对自己的日语变得极为保护。
 
-Compared to language communities and resources for literally every other language out there, Japanese resources, tutors and learners always tend to make pronunciation an afterthought because Japanese pronunciation is simple. Yes it is simple, and yes you don't need to worry about being misunderstood but it may be in some learners' goals to have good pronunciation.  
+在我运营 TheMoeWay 的4年多时间里，与各种沉浸学习者交谈过，我没看到多少人对输出充满信心。为什么会这样呢？对大多数人来说，他们根本不想尝试输出，因为害怕说错了，害怕会毁掉他们的日语，或者害怕有人会嘲笑他们。这些都是有害的完美主义心态的产物，对沉浸学习有害。
 
-I am going to add this guide to the list of resources that say you don't need to study pronunciation by saying: if you don't really care about sounding amazing, then don't bother fussing over your pronunciation. 
+## 3.2 发音与音调
 
-Learners that want to go the extra mile may want to look into learning *pitch accent* and the correct IPA pronunciation on their own, ideally as early as possible.
+与其他语言社区和资源相比，日语资源、教师和学习者往往将发音视为次要问题，因为日语发音相对简单。的确，日语发音简单，您无需担心被误解，但有些学习者可能希望拥有良好的发音。
 
-## 3.3 Learning milestones
+此指南也将加入建议您不用学习发音的资源的行列：如果您不在乎发音特别出色，那么就不用过分纠结发音。
 
-For those that are curious, here is the level of Japanese ability you can expect to have after reaching these milestones.  
+那些想要更上一层楼的学习者可以考虑自学*音调*和正确的IPA发音，最好尽早开始。
 
-- 10 raw anime series: You are really starting to get the hang of listening to Japanese. You are probably able to understand a good chunk of sentences now. Anime you watched at the beginning of your learning journey are going to feel so much different!  
-- 25 raw anime series: At this point listening to Japanese is going to feel more natural than ever before.
-- 50 raw anime series: If you have been keeping up with your study... then I can't really consider you a beginner anymore at this point. There's going to be a huge difference between your abilty now compared to when you were starting out!  
-- 1 full novel finished: While you had a really rough time trying to understand this book, you are beginning to really shoot out of the beginner stage. The next book you read will be noticeably easier.  
-- 5 novels finished/1 medium to long VN: I wouldn't consider you are a beginner anymore. You are really beginning to build up good Japanese reading proficiency.  
-- 10 novels/2 medium to long VNs: Completely intermediate at this point. Congratulations!   
+## 3.3 学习里程碑
 
+对于好奇的学习者，这里列出了一些您可以期待达到的日语能力水平里程碑。
 
-## 3.4 Closing notes: post-beginner stage and beyond  
+- 10 部生肉动漫：您真正开始熟悉日语听力。现在可能能够理解很多句子。您在学习初期观看的动漫现在将感觉大不相同！
+- 25 部生肉动漫：此时，听日语会变得比以往任何时候都更加自然。
+- 50 部生肉动漫：如果您坚持学习……我不再能将您视为初学者。您当前的能力与您刚开始时相比会有巨大的差异！
+- 完成1本完整小说：尽管这本书非常难读懂，但您真的开始脱离初学者阶段。您阅读的下一本书会明显更容易。
+- 完成5本小说/1部中等至长篇VN：您已不再是初学者，日语阅读能力已经得到良好提升。
+- 完成10本小说/2部中等至长篇VN：完全进入中级阶段，恭喜！
 
-There isn't really much else to the learning process other than immerse a lot and learn words and grammar. You can really get fluent at Japanese with this method. But one thing does change when you leave the beginner stage.  
+## 3.4 尾声：后初学者阶段及以后
 
-Learning vocabulary with Anki will become much more personal as you will be making your own cards from words found in your immersion in a process we call *mining*. The recommended mining guide is [Donkuri's mining guide](https://donkuri.github.io/learn-japanese/mining/). Mining will essentially become the heart of your Japanese *study*.  
+学习过程实际上并无其他变化，只需大量沉浸和学习词汇及语法即可。通过这种方法，您真的可以流利掌握日语。但当您离开初学者阶段后，有一件事会改变。
 
-Thank you so much for taking your time to read this guide and I wish you good luck on your Japanese learning journey! 
+用 Anki 学习词汇将变得更加个性化，您将从沉浸过程中找到的单词中制作自己的卡片，我们称之为*挖掘*。推荐的挖掘指南是[Donkuri的挖掘指南](https://donkuri.github.io/learn-japanese/mining/)。挖掘将成为您日语*学习*的核心。
 
-If you have any questions, you can ask away at our Discord server. 
+非常感谢您花时间阅读本指南，祝您日语学习之旅好运！
 
-[Join the Discord :fontawesome-brands-discord:](/join){: .md-button } 
+如果有任何问题，您可以随时在我们的 Discord 服务器上提问。
+
+[加入 Discord :fontawesome-brands-discord:](/join){: .md-button }
 
 ### Patreon
 
-If you found this guide useful in your Japanese learning journey, a Patreon donation would be highly appreciated!  
+如果您发现本指南对您的日语学习旅程有帮助，非常感谢您的 Patreon 捐款支持！
 
-[:fontawesome-brands-patreon: Become a patron](https://www.patreon.com/shoui){: .md-button }  
-### Contributors
+[:fontawesome-brands-patreon: 成为赞助者](https://www.patreon.com/shoui){: .md-button }
 
-I'd like to thank everyone that has contributed to the making of this guide:  
+### 贡献者
 
+我要感谢所有为本指南的制作做出贡献的人：
+  
 iamatryhard  
 shigatsunoraion  
 qazsedctgb  
